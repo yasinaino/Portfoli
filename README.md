@@ -1,6 +1,6 @@
 ## Portfoli
 
-Aquest es el menu portfoli dels menus estudis de cicle Superior de Desenvolupament d Aplicacios Multiplataforma.
+Aquest es el menu **portfoli** dels menus estudis de *Cicle Superior de Desenvolupament d Aplicacios Multiplataforma*.
 
 El moduls que he fet son:
 
