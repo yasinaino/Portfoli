@@ -9,4 +9,4 @@ El moduls que he fet son:
 - [M03: Programacio](https://github.com/yasinaino/Portfoli/tree/main/M03)
 - [M04: Lenguage de marques](https://github.com/yasinaino/Portfoli/tree/main/M04)
 - [FOL: Formacion Oriontacio Laboral](https://github.com/yasinaino/Portfoli/tree/main/FOL) 
-- [EIE: Empresa](https://github.com/yasinaino/Portfoli/tree/main/EIE)
+
